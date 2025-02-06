@@ -1,7 +1,7 @@
 # OmniHuman 1
 ## Revolutionizing Multimodal Human Video Generation
 
-[Visit OmniHuman Lab](https://omnihumanlab.org)
+[Visit OmniHuman Lab](https://vividhubs.ai/omnihuman)
 
 > Pioneering the next generation of human video generation technology
 
